@@ -1,0 +1,155 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.prog {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 250%;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.TopContainer {
+  position: relative;
+  background-color: #E4F9F5;
+  padding-top: 50px;
+}
+
+.MiddleContainer {
+  margin: 100px 0;
+}
+
+.Top-Cloud {
+  position: absolute;
+  right: 370px;
+  top: 40px;
+}
+
+.Bottom-Cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+
+.profile {
+  background-color: white;
+}
+
+.character-1 {
+  width: 15%;
+}
+
+.skill-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.para1 {
+  font-weight: bold;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  padding-bottom: 100px;
+}
+
+.contact-message {
+  width: 30%;
+  margin: 40px auto 60px;
+  font-weight: bold;
+}
+
+.btn {
+  background: linear-gradient(to bottom, #11999E 5%, #11999E 100%);
+  background-color: #11999E;
+  border-radius: 15px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  padding: 11px 23px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #8FCFD1 5%, #8FCFD1 100%);
+  background-color: #8FCFD1;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.contact-me {
+  padding-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0px;
+  padding-top: 25px;
+  padding-bottom: 5px;
+
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  margin-bottom: 0px;
+}
